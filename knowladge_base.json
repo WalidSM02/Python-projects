@@ -1,0 +1,28 @@
+{
+  "question": [
+    {
+      "question": "hello",
+      "answer": "hey there!"
+    },
+    {
+      "question": "2+2",
+      "answer": "4"
+    },
+    {
+      "question": "hey",
+      "answer": "wallah! happy to see you again."
+    },
+    {
+      "question": "are you okay?",
+      "answer": "Today's weather is charming, me also."
+    },
+    {
+      "question": "how are feeling today?",
+      "answer": "Sorry to say as an chatbot I have no feelings."
+    },
+    {
+      "question": "can you give me the bucket?",
+      "answer": "I am a software. I am immovable."
+    }
+  ]
+}
